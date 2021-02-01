@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/discord/796767783354368030.svg?logo=discord&colorB=7289DA)](https://paraffin.site)
 
-![logo](https://cdn.discordapp.com/attachments/799297746217467944/805396275502907412/7aee0abaa7112ddb.jpg)
+![logo](https://cdn.discordapp.com/attachments/799297746217467944/805520455393083442/1.jpg)
 
 # 🎥 Discord Streaming Status (Self Bot)
 > ساخته شده با کتابخانه دیسکورد ار پی سی [discord-rpc](https://www.npmjs.com/package/discord-rpc)
