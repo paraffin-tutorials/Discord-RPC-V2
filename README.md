@@ -18,9 +18,3 @@
 سلف بات رو اجرا کنید `Start.bat` سپس با استفاده از 
 <br><br>
 آموزش کامل [Paraffin Youtube](https://www.youtube.com/watch?v=vItt6avbr2A&t=3s)
-<br><br>
-**با تشکر از**
-<br><br>
-![DM me Discord](https://discord.c99.nl/widget/theme-1/488958506280550402.png)
-![DM me Discord](https://discord.c99.nl/widget/theme-1/490519932292038659.png)
-
